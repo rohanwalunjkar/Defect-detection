@@ -1,0 +1,10 @@
+flask
+tensorflow-cpu
+scikit-image
+opencv-python
+matplotlib
+numpy
+pandas
+pillow
+gdown
+gunicorn
